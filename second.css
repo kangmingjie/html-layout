@@ -1,0 +1,24 @@
+.stack-1 {
+	background-color: #03E8B2;
+	width: 100%;
+	height: 979px;
+}
+.stack-2 {
+	background-color: #03A2E8;
+	width: 66%;
+	height: 979px;
+}	
+.stack-3 {
+	background-color: #0370FF;
+	width: 47%;
+	height: 979px;
+}
+.picture {
+	background-image: url("http://i148.photobucket.com/albums/s7/KTNRunner/ninja-training-0071_zpsc4b7323e.jpg");
+	background-size: 600px 360px;
+	background-color: #B24600;
+	float: right;
+	margin-top: 620px;
+	height: 359px;
+	width: 34%;
+}

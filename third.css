@@ -1,0 +1,46 @@
+.one {
+	background-color: gray;
+	height: 150px;
+	width: 100%;
+}
+
+.two {
+	background-color: white;
+	height: 400px;
+}
+
+.three {
+	background-color: blue;
+	height: 200px;
+}
+
+.four {
+	background-color: aqua;
+	height: 200px;
+}
+
+.five {
+	background-color: lime;
+	height: 200px;
+}
+
+.six {
+	background-color: yellow;
+	height: 200px;
+}
+
+.floaty {
+	background-color: blue;
+	width: 200px;
+	height: 130px;
+	margin: 20px;
+	position: relative;
+	top: 10px;
+}
+
+.text1 {
+	font-size: 40px;
+	font-family: verdana;
+	margin-left: 20px;
+	margin-right: 20px;
+}
